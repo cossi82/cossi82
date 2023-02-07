@@ -6,6 +6,11 @@ I am lookinf for opportunities to copy and paste of money
 
 in my account with my computer and algorithms every morning.
 
+### I can speak
+
+- Korean
+- English
+- Python
 
 <!--
 **cossi82/cossi82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
